@@ -1,0 +1,269 @@
+{
+  "version": 2,
+  "assets": [
+    {
+      "id": "bgm_room_loop",
+      "type": "audio",
+      "relativePath": "audio/bgm_room_loop.mp3",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_asteria_room",
+      "type": "image",
+      "relativePath": "textures/bg_asteria_room.png",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_lumi_room",
+      "type": "image",
+      "relativePath": "textures/bg_lumi_room.png",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_nyx_room",
+      "type": "image",
+      "relativePath": "textures/bg_nyx_room.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_sad",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_sad.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_happy",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_happy.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_idle",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_idle.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_angry",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_angry.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_thinking",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_thinking.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_joyful",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_joyful.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_shy",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_shy.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_asteria_surprised",
+      "type": "image",
+      "relativePath": "textures/sym_asteria_surprised.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_sad",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_sad.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_happy",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_happy.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_idle",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_idle.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_angry",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_angry.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_thinking",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_thinking.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_joyful",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_joyful.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_shy",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_shy.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_lumi_surprised",
+      "type": "image",
+      "relativePath": "textures/sym_lumi_surprised.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_sad",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_sad.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_happy",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_happy.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_idle",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_idle.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_angry",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_angry.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_thinking",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_thinking.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_joyful",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_joyful.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_shy",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_shy.png",
+      "cssVariable": null
+    },
+    {
+      "id": "sym_nyx_surprised",
+      "type": "image",
+      "relativePath": "textures/sym_nyx_surprised.png",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_asteria_event_29",
+      "type": "image",
+      "relativePath": "textures/bg_cg_asteria_event_29.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_asteria_event_30",
+      "type": "image",
+      "relativePath": "textures/bg_cg_asteria_event_30.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_asteria_event_31",
+      "type": "image",
+      "relativePath": "textures/bg_cg_asteria_event_31.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_asteria_event_32",
+      "type": "image",
+      "relativePath": "textures/bg_cg_asteria_event_32.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_asteria_event_33",
+      "type": "image",
+      "relativePath": "textures/bg_cg_asteria_event_33.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_lumi_event_34",
+      "type": "image",
+      "relativePath": "textures/bg_cg_lumi_event_34.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_lumi_event_35",
+      "type": "image",
+      "relativePath": "textures/bg_cg_lumi_event_35.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_lumi_event_36",
+      "type": "image",
+      "relativePath": "textures/bg_cg_lumi_event_36.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_lumi_event_37",
+      "type": "image",
+      "relativePath": "textures/bg_cg_lumi_event_37.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_lumi_event_38",
+      "type": "image",
+      "relativePath": "textures/bg_cg_lumi_event_38.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_nyx_event_39",
+      "type": "image",
+      "relativePath": "textures/bg_cg_nyx_event_39.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_nyx_event_40",
+      "type": "image",
+      "relativePath": "textures/bg_cg_nyx_event_40.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_nyx_event_41",
+      "type": "image",
+      "relativePath": "textures/bg_cg_nyx_event_41.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_nyx_event_42",
+      "type": "image",
+      "relativePath": "textures/bg_cg_nyx_event_42.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "bg_cg_nyx_event_43",
+      "type": "image",
+      "relativePath": "textures/bg_cg_nyx_event_43.webp",
+      "cssVariable": null
+    },
+    {
+      "id": "logo_favicon",
+      "type": "image",
+      "relativePath": "textures/logo_favicon.svg",
+      "cssVariable": null
+    }
+  ]
+}
