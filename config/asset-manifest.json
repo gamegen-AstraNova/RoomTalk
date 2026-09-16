@@ -10,163 +10,163 @@
     {
       "id": "bg_asteria_room",
       "type": "image",
-      "relativePath": "textures/bg_asteria_room.png",
+      "relativePath": "textures/bg_asteria_room.webp",
       "cssVariable": null
     },
     {
       "id": "bg_lumi_room",
       "type": "image",
-      "relativePath": "textures/bg_lumi_room.png",
+      "relativePath": "textures/bg_lumi_room.webp",
       "cssVariable": null
     },
     {
       "id": "bg_nyx_room",
       "type": "image",
-      "relativePath": "textures/bg_nyx_room.png",
+      "relativePath": "textures/bg_nyx_room.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_sad",
       "type": "image",
-      "relativePath": "textures/sym_asteria_sad.png",
+      "relativePath": "textures/sym_asteria_sad.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_happy",
       "type": "image",
-      "relativePath": "textures/sym_asteria_happy.png",
+      "relativePath": "textures/sym_asteria_happy.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_idle",
       "type": "image",
-      "relativePath": "textures/sym_asteria_idle.png",
+      "relativePath": "textures/sym_asteria_idle.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_angry",
       "type": "image",
-      "relativePath": "textures/sym_asteria_angry.png",
+      "relativePath": "textures/sym_asteria_angry.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_thinking",
       "type": "image",
-      "relativePath": "textures/sym_asteria_thinking.png",
+      "relativePath": "textures/sym_asteria_thinking.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_joyful",
       "type": "image",
-      "relativePath": "textures/sym_asteria_joyful.png",
+      "relativePath": "textures/sym_asteria_joyful.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_shy",
       "type": "image",
-      "relativePath": "textures/sym_asteria_shy.png",
+      "relativePath": "textures/sym_asteria_shy.webp",
       "cssVariable": null
     },
     {
       "id": "sym_asteria_surprised",
       "type": "image",
-      "relativePath": "textures/sym_asteria_surprised.png",
+      "relativePath": "textures/sym_asteria_surprised.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_sad",
       "type": "image",
-      "relativePath": "textures/sym_lumi_sad.png",
+      "relativePath": "textures/sym_lumi_sad.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_happy",
       "type": "image",
-      "relativePath": "textures/sym_lumi_happy.png",
+      "relativePath": "textures/sym_lumi_happy.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_idle",
       "type": "image",
-      "relativePath": "textures/sym_lumi_idle.png",
+      "relativePath": "textures/sym_lumi_idle.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_angry",
       "type": "image",
-      "relativePath": "textures/sym_lumi_angry.png",
+      "relativePath": "textures/sym_lumi_angry.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_thinking",
       "type": "image",
-      "relativePath": "textures/sym_lumi_thinking.png",
+      "relativePath": "textures/sym_lumi_thinking.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_joyful",
       "type": "image",
-      "relativePath": "textures/sym_lumi_joyful.png",
+      "relativePath": "textures/sym_lumi_joyful.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_shy",
       "type": "image",
-      "relativePath": "textures/sym_lumi_shy.png",
+      "relativePath": "textures/sym_lumi_shy.webp",
       "cssVariable": null
     },
     {
       "id": "sym_lumi_surprised",
       "type": "image",
-      "relativePath": "textures/sym_lumi_surprised.png",
+      "relativePath": "textures/sym_lumi_surprised.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_sad",
       "type": "image",
-      "relativePath": "textures/sym_nyx_sad.png",
+      "relativePath": "textures/sym_nyx_sad.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_happy",
       "type": "image",
-      "relativePath": "textures/sym_nyx_happy.png",
+      "relativePath": "textures/sym_nyx_happy.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_idle",
       "type": "image",
-      "relativePath": "textures/sym_nyx_idle.png",
+      "relativePath": "textures/sym_nyx_idle.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_angry",
       "type": "image",
-      "relativePath": "textures/sym_nyx_angry.png",
+      "relativePath": "textures/sym_nyx_angry.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_thinking",
       "type": "image",
-      "relativePath": "textures/sym_nyx_thinking.png",
+      "relativePath": "textures/sym_nyx_thinking.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_joyful",
       "type": "image",
-      "relativePath": "textures/sym_nyx_joyful.png",
+      "relativePath": "textures/sym_nyx_joyful.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_shy",
       "type": "image",
-      "relativePath": "textures/sym_nyx_shy.png",
+      "relativePath": "textures/sym_nyx_shy.webp",
       "cssVariable": null
     },
     {
       "id": "sym_nyx_surprised",
       "type": "image",
-      "relativePath": "textures/sym_nyx_surprised.png",
+      "relativePath": "textures/sym_nyx_surprised.webp",
       "cssVariable": null
     },
     {
